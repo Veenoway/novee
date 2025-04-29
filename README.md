@@ -1,9 +1,7 @@
-# Hey!
+# Hey 👋
+I'm just a dev who loves building stuff on the blockchain.
+Been deep into coding for 5+ years now — mostly living in the EVM world.
 
-I'm a Fullstack Blockchain Developer with 5+ years of experience, passionate about Web3, smart contracts, and building scalable decentralized apps on EVM blockchains.
-
-I love learning new things, pushing my limits, and turning ideas into real projects.
-
-📫 Contact : [Twitter](https://twitter.com/veenox)
+I'm obsessed with Web3, smart contracts, dApps, and learning new things every day.
 
 ![VeenoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veenoway&show_icons=true&theme=tokyonight)
