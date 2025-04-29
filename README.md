@@ -1,14 +1,11 @@
-# novee
+# Hey!
 
-# Salut, moi c'est Novee 👋
+I'm a Fullstack Blockchain Developer with 5+ years of experience, passionate about Web3, smart contracts, and building scalable decentralized apps on EVM blockchains.
 
-🌟 Développeur Web3 | Fondateur de VeenoX
+I love learning new things, pushing my limits, and turning ideas into real projects.
+Right now, I'm working on several EVM-based projects, mixing backend magic with modern frontend craft to build secure, user-friendly dApps.
 
-🚀 Stack: React, Next.js, Solidity, Ether.js, TradingView
-
-🔭 Je travaille sur : 
-- VeenoX (DEX sur Monad)
-- IA pour générer des NFT automatiquement
+Always coding, always learning — and always excited about what’s next in Web3
 
 📫 Contact : [Twitter](https://twitter.com/veenox)
 
