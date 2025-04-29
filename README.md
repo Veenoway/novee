@@ -12,4 +12,4 @@
 
 📫 Contact : [Twitter](https://twitter.com/veenox)
 
-![VeenoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenoX&show_icons=true&theme=tokyonight)
+![VeenoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veenoway&show_icons=true&theme=tokyonight)
